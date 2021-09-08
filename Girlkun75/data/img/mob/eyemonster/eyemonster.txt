@@ -1,0 +1,6 @@
+data//img//mob//eyemonster//
+4
+eyemonster_attack 8
+eyemonster_dead 6
+eyemonster_fly 8
+eyemonster_hurt 2

@@ -1,0 +1,6 @@
+data//img//mob//bogey//
+4
+bogey_dead 11
+bogey_hurt 3
+bogey_run 12
+bogey_attack 17

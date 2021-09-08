@@ -1,0 +1,5 @@
+data//img//mob//cat//
+3
+cat_dead 10
+cat_hurt 9
+cat_run 10

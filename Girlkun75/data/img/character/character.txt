@@ -1,0 +1,9 @@
+data//img//character//
+7
+idle 14
+run 8
+jump 7
+hurt 4
+dead 10
+normal_attack 7
+special_attack 7

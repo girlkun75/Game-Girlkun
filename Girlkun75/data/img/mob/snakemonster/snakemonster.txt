@@ -1,0 +1,6 @@
+data//img//mob//snakemonster//
+4
+snakemonster_attack 6
+snakemonster_hurt 3
+snakemonster_run 6
+snakemonster_dead 5

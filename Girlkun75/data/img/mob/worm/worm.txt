@@ -1,0 +1,6 @@
+data//img//mob//worm//
+4
+worm_attack 16
+worm_dead 8
+worm_hurt 3
+worm_run 9

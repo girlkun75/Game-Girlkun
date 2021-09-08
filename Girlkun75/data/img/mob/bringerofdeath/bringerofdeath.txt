@@ -1,0 +1,8 @@
+data//img//mob//bringerofdeath//
+6
+bringerofdeath_attack 9
+bringerofdeath_dead 11
+bringerofdeath_hurt 3
+bringerofdeath_idle 8
+bringerofdeath_run 8
+bringerofdeath_summon 9 

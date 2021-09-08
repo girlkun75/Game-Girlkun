@@ -1,0 +1,8 @@
+data//img//rangedame//
+6
+normal_fire 9
+special_fire 9
+bringerofdeath_bullet 16
+dark_fire 15
+ball_fire 13
+boom 19

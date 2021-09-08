@@ -1,0 +1,5 @@
+data//img//infobar//
+3
+hp_mp_bar
+hp_bar
+mp_bar
